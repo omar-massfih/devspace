@@ -5,7 +5,7 @@ metadata:
 components:
   - name: tools
     container:
-      image: quay.io/lukaswb/pollmaster-devspace:latest
+      image: registry.youni.no/docap/udi-test:latest
       mountSources: true
       memoryLimit: 2Gi
       cpuLimit: "1"
