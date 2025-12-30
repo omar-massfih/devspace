@@ -1,6 +1,6 @@
 schemaVersion: 2.2.0
 metadata:
-  name: my-custom-workspace
+  name: test-workspace
 
 components:
   - name: tools
