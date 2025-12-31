@@ -5,7 +5,7 @@ attributes:
   .vscode/extensions.json: |
     {
       "recommendations": [
-        "Continue.continue"
+        "continue.continue"
       ]
     }
 
@@ -15,7 +15,7 @@ components:
       image: registry.youni.no/docap/udi:latest
       mountSources: true
       memoryLimit: 2Gi
-      cpuLimit: "1"
+      cpuLimit: '1'
       memoryRequest: 512Mi
       cpuRequest: 200m
       env:
