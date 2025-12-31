@@ -11,8 +11,6 @@ components:
       cpuLimit: "1"
       memoryRequest: 512Mi
       cpuRequest: 200m
-      command: ["sleep"]
-      args: ["infinity"]
       env:
         - name: KUBECONFIG
           value: /home/user/.kube/config
