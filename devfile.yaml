@@ -1,14 +1,6 @@
 schemaVersion: 2.2.0
 metadata:
   name: test-workspace
-attributes:
-  .vscode/extensions.json: |
-    {
-      "recommendations": [
-        "continue.continue"
-      ]
-    }
-
 components:
   - name: tools
     container:
