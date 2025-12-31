@@ -1,6 +1,0 @@
-id: che-incubator/che-code/latest
-
-override:
-  vscode:
-    extensions:
-      - Continue.continue
