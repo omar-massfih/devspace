@@ -1,5 +1,8 @@
 {
   "recommendations": [
-    "continue.continue"
+    "continue.continue",
+    "redhat.vscode-yaml",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "redhat.vscode-tekton-pipelines"
   ]
 }
